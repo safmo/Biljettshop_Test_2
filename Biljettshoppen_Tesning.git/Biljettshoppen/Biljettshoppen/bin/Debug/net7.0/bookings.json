@@ -1,0 +1,41 @@
+[
+  {
+    "BookingID": 1,
+    "Name": "saf",
+    "Email": "saf@du.se",
+    "EventID": 1,
+    "SeatIDs": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "PaymentMethod": "Invoice",
+    "TicketID": "121fa14e-355d-43fc-9b79-538349a09773"
+  },
+  {
+    "BookingID": 3,
+    "Name": "f",
+    "Email": "d",
+    "EventID": 1,
+    "SeatIDs": [
+      4,
+      4
+    ],
+    "PaymentMethod": "Invoice",
+    "TicketID": "480befd0-5fb7-48f4-b101-69928d38ddeb"
+  },
+  {
+    "BookingID": 4,
+    "Name": "",
+    "Email": "s",
+    "EventID": 1,
+    "SeatIDs": [
+      9,
+      7
+    ],
+    "PaymentMethod": "Invoice",
+    "TicketID": "e1b7a836-6747-4b9c-9c3d-3259c3d695ff"
+  }
+]

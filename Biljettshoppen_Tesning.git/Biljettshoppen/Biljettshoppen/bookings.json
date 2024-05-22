@@ -1,0 +1,17 @@
+[
+  {
+    "BookingID": 1,
+    "Name": "Johan",
+    "Email": "h21joste@du.se",
+    "EventID": 1,
+    "SeatIDs": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "PaymentMethod": "Invoice",
+    "TicketID": "eb6e95ac-7bbb-4f24-849a-778b3c960710"
+  }
+]

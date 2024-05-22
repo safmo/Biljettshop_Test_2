@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Ka4Fs3yZSmlyylZHNmhAv2fFe/NNyxw0fNPqLCAxG+Tvj5Znow95nDCNtu99lJO8Las9huUVyhTgcA8r17mlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safiy\\Source\\Repos\\Biljettshoppen_Tesning.git\\Biljettshoppen\\Biljettshoppen\\Biljettshoppen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safiy\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

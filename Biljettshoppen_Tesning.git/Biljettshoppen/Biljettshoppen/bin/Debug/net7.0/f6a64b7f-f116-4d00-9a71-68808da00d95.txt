@@ -1,0 +1,9 @@
+Booking ID: 2
+Ticket ID: f6a64b7f-f116-4d00-9a71-68808da00d95
+Name: saf
+Email: faf
+Event Name: saf
+Event Venue: bluhus
+Event ID: 1
+Seat IDs: 1, 2, 3
+Payment Method: Invoice

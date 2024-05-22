@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biljettshoppen", "Biljettshoppen\Biljettshoppen.csproj", "{B64CF0B0-DA57-48BD-82AE-FB5F5CAE8085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBiljetshoppen", "TestBiljetshoppen\TestBiljetshoppen.csproj", "{FD2C46ED-9063-482D-A91E-995E7C59A1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B64CF0B0-DA57-48BD-82AE-FB5F5CAE8085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64CF0B0-DA57-48BD-82AE-FB5F5CAE8085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64CF0B0-DA57-48BD-82AE-FB5F5CAE8085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64CF0B0-DA57-48BD-82AE-FB5F5CAE8085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2C46ED-9063-482D-A91E-995E7C59A1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2C46ED-9063-482D-A91E-995E7C59A1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2C46ED-9063-482D-A91E-995E7C59A1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2C46ED-9063-482D-A91E-995E7C59A1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7CCDC5-673B-4E66-85D3-83A4F7813E15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+Booking ID: 1
+Ticket ID: 121fa14e-355d-43fc-9b79-538349a09773
+Name: saf
+Email: saf@du.se
+Event Name: s
+Event Venue: tegel hus
+Event ID: 1
+Seat IDs: 1, 2, 3, 4, 5
+Payment Method: Invoice

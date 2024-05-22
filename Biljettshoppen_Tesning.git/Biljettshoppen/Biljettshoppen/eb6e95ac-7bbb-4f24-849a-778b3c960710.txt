@@ -1,0 +1,9 @@
+Booking ID: 1
+Ticket ID: eb6e95ac-7bbb-4f24-849a-778b3c960710
+Name: Johan
+Email: h21joste@du.se
+Event Name: Avatar
+Event Venue: Globen Arena Trähus
+Event ID: 1
+Seat IDs: 1, 2, 3, 4, 5
+Payment Method: Invoice
